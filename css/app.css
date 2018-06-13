@@ -11,6 +11,8 @@ html {
 
 body {
     background-color: tomato;	
+	
+    background-color: tomato;
     display: flex;
     margin: 0;
     height: 100%;
